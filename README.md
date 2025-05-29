@@ -1,0 +1,1 @@
+A lightweight Chrome extension that automatically detects and blocks AI-related websites by analyzing their domains and page content. Useful for users who want to avoid AI-generated content or stay focused by steering clear of generative AI tools.
